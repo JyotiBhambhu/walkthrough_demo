@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">WalkthroughDemo</string>
+
+    <string name="target_1">Target 1</string>
+    <string name="put_description_for_target_1_here">Put description for Target 1 here.</string>
+    <string name="target_5">Target 5</string>
+    <string name="put_description_for_target_5_here">Put description for Target 5 here.</string>
+    <string name="target_10">Target 10</string>
+    <string name="put_description_for_target_10_here">Put description for Target 10 here.</string>
+    <string name="na">NA</string>
 </resources>

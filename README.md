@@ -25,7 +25,7 @@ This application serves as a demonstration of integrating spotlight functionalit
 
      ```groovy
      dependencies {
-         implementation 'com.github.JyotiBhambhu:spotlight_compose_library:1.0.0'
+         implementation 'com.github.JyotiBhambhu:spotlight_compose_library:1.0.0.1'
      }
      ```
 
